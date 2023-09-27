@@ -387,6 +387,12 @@ section {
     overflow: hidden;
     transition: all 300ms;
   }
+  .icon_whatsapp {
+    width: 70px;
+    height: 70px;
+    right: 25px;
+    bottom: 25px;
+  }
   .logo_container {
     grid-row-start: 1;
     grid-column-start: 1;
