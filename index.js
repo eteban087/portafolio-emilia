@@ -1,9 +1,9 @@
 const hamburguesa = document.getElementById("hamburguesa");
-const header = document.getElementById("header");
+const container_header = document.getElementById("container_header");
 
 // HAMBURGUESA PARA MOSTRAR Y OCULTAR MENU
 hamburguesa.addEventListener("click", () => {
-  header.classList.toggle("show");
+  container_header.classList.toggle("show");
 });
 
 // IMAGENES ALETORIAS
