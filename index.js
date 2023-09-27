@@ -8,9 +8,9 @@ hamburguesa.addEventListener("click", () => {
 
 // IMAGENES ALETORIAS
 const imgs = [
-  (img1 = "../img/imagen1.jpg"),
-  (img2 = "../img/imagen2.jpg"),
-  (img3 = "../img/imagen3.jpg"),
+  (img1 = "/img/imagen1.jpg"),
+  (img2 = "/img/imagen2.jpg"),
+  (img3 = "/img/imagen3.jpg"),
 ];
 const imgRandom = () => {
   const img = Math.floor(Math.random() * imgs.length);
