@@ -137,6 +137,10 @@ section {
 
 /* HOME ================================================= */
 
+.home {
+  height: 650px;
+}
+
 .home_container {
   max-width: 1200px;
   padding: 0px 20px;
@@ -191,6 +195,7 @@ section {
 /* About========================================== */
 .about {
   height: auto;
+  /* border: 1px solid #000; */
 }
 .container_about {
   max-width: 1200px;
