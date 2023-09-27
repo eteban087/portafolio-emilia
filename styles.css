@@ -225,7 +225,7 @@ section {
   margin: 20px 0px;
   border-radius: 12px;
   background: rgba(96, 26, 216, 0.1);
-  height: 300px;
+  min-height: 300px;
 }
 
 .img_books {
